@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553451331602",
+    "project_id": "ott-email",
+    "storage_bucket": "ott-email.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553451331602:android:0f3f73d60f3730d65178cb",
+        "android_client_info": {
+          "package_name": "com.imam.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9KZO3C61ejjFcA4cDXnU-QzGFooExuzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
